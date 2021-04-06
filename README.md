@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuutaDragon
-- 👀 I’m interested in ia, marchine learning, games
-- 🌱 I’m currently learning c
+- 👀 I’m interested in ia marchine learning, games and IA
+- 🌱 I’m currently learning python
 
 
 <!---

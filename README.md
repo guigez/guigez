@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YuutaDragon
-- 👀 I’m interested in ia marchine learning, games and full stack
+- 👀 I’m interested in AI, marchine learning, games and full stack development
 - 🌱 I’m currently learning python and angular
 
 

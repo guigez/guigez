@@ -5,6 +5,9 @@
 - 👀 I’m interested in AI, marchine learning, games and full stack development
 - 🌱 I’m currently learning python, unity, react and nodeJS
 
+<br><br>
+
+![Banner](Banner.png)
 
 <!---
 YuutaDragon/YuutaDragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @YuutaDragon 
 - 🍙 Email: guilherme.rodrigues@estudante.ufscar.br
 - 👀 I’m interested in AI, marchine learning, games and full stack development
-- 🌱 I’m currently learning python, angular and nodeJS
+- 🌱 I’m currently learning python, unity, react and nodeJS
 
 
 <!---

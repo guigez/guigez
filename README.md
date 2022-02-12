@@ -1,7 +1,7 @@
 <h1>Guilherme Rodrigues</h1>
 
 - 👋 Hi, I’m @YuutaDragon 
-- 🍙 Email: guilherme.rodrigues@estudante.ufscar.br
+- 🍙 Email: guilhermehenrique.rodriguesh@gmail.com
 - 👀 I’m interested in AI, games development and full stack development
 - 🌱 I’m currently learning python, unity (C#), react and nodeJS
 - 🍚 I like food, draw and animation

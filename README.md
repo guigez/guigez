@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @YuutaDragon 
 - 🍙 Email: guilhermehenrique.rodriguesh@gmail.com
 - 👀 I’m interested in AI, games development and full stack development
-- 🌱 I’m currently learning python, unity (C#), react and nodeJS
+- 🌱 I’m currently learning Python, Unity (C#), React and NodeJS
 - 🍚 I like food, draw and animation
 - 🎮 Let's Play!
 

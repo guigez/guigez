@@ -1,7 +1,6 @@
 <h1>Guilherme Rodrigues</h1>
 
-- 👋 Hi, I’m @YuutaDragon 
-- 🍙 Email: guilhermehenrique.rodriguesh@gmail.com
+- 👋 Hi, I’m @Guigez
 - 👀 I’m interested in AI, games development and full stack development
 - 🌱 I’m currently learning Unity (C#), Python, Next Js and NodeJS
 - 🍚 I like food, draw and animation
